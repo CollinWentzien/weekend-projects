@@ -1,3 +1,13 @@
+/*
+ * Arduino Retro Arcade (Weekend Projects Ep. 1)
+ *
+ * Created by Collin Wentzien, 2022
+ *
+ * If you plan to use this code in a video, please credit!
+ * Otherwise the code is free to use :)
+ *
+ */
+
 #include <TVout.h>
 #include <fontALL.h>
 
